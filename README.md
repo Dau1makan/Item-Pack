@@ -6,29 +6,11 @@
         <center><p><em>Author:</em> Daulmakan
         <p>This mod adds new items to Baldur's Gate II, Tutu, BGT and Planescape:Torment, as well as plenty of item-related tweaks that I find convenient.</p>
 
-      <h4><p></p>COMPONENTS<p></p></h4>
-<center><p>
-  <a href="file:///D:/Guillermo/JUEGOS/Baldur&#39;s%20Gate%20II/Daulmakan&#39;s%20Mods/ITEM%20PACK/Item_Pack/Item_Pack_ReadMe.html#Main%20Component">1. Item Pack v2.1</a> <br>
-  <a href="file:///D:/Guillermo/JUEGOS/Baldur&#39;s%20Gate%20II/Daulmakan&#39;s%20Mods/ITEM%20PACK/Item_Pack/Item_Pack_ReadMe.html#Extra%20Items">2. Extra Items</a> <br>
-  <a href="file:///D:/Guillermo/JUEGOS/Baldur&#39;s%20Gate%20II/Daulmakan&#39;s%20Mods/ITEM%20PACK/Item_Pack/Item_Pack_ReadMe.html#Tweaked%20Items">3. Tweaked Items</a> <br>
-  <a href="file:///D:/Guillermo/JUEGOS/Baldur&#39;s%20Gate%20II/Daulmakan&#39;s%20Mods/ITEM%20PACK/Item_Pack/Item_Pack_ReadMe.html#Convenient%20Free%20Action%20Items">4. Convenient Free Action Items</a> <br>
-  <a href="file:///D:/Guillermo/JUEGOS/Baldur&#39;s%20Gate%20II/Daulmakan&#39;s%20Mods/ITEM%20PACK/Item_Pack/Item_Pack_ReadMe.html#More%20Distinguishable%20Items">5. More Distinguishable Items</a> <br>
-  <a href="file:///D:/Guillermo/JUEGOS/Baldur&#39;s%20Gate%20II/Daulmakan&#39;s%20Mods/ITEM%20PACK/Item_Pack/Item_Pack_ReadMe.html#Familiar%20Faces">6. Familiar Faces</a> <br>
-  <a href="file:///D:/Guillermo/JUEGOS/Baldur&#39;s%20Gate%20II/Daulmakan&#39;s%20Mods/ITEM%20PACK/Item_Pack/Item_Pack_ReadMe.html#More%20Work%20for%20Cromwell">7. More Work for Cromwell</a> <br>
-  <a href="file:///D:/Guillermo/JUEGOS/Baldur&#39;s%20Gate%20II/Daulmakan&#39;s%20Mods/ITEM%20PACK/Item_Pack/Item_Pack_ReadMe.html#Pocket%20Store">8. Pocket Store</a> <br>
-  <a href="file:///D:/Guillermo/JUEGOS/Baldur&#39;s%20Gate%20II/Daulmakan&#39;s%20Mods/ITEM%20PACK/Item_Pack/Item_Pack_ReadMe.html#Item%20Pack%20for%20Tutu/BGT">9. Item Pack for Tutu/BGT</a> <br>
-  <a href="file:///D:/Guillermo/JUEGOS/Baldur&#39;s%20Gate%20II/Daulmakan&#39;s%20Mods/ITEM%20PACK/Item_Pack/Item_Pack_ReadMe.html#Elemental%20Damage">10. +X% Elemental Damage</a> <br>
-  <a href="file:///D:/Guillermo/JUEGOS/Baldur&#39;s%20Gate%20II/Daulmakan&#39;s%20Mods/ITEM%20PACK/Item_Pack/Item_Pack_ReadMe.html#Planescape%20Torment">11. Item Pack for Planescape:Torment</a>
-<br></p></center>
-
-      </header>
-      <section>     
-
 <p>Before installing this mod, or any other, make sure you have done a proper backup, in order to avoid the hassles of installing/uninstalling the entire game and make your life easier if you run across any problems. If you don't know how to properly do this, check this wonderful thread:
   </p><blockquote>
     <a href="http://forums.pocketplane.net/index.php/topic,17555.0.html">Building and Maintaining a Clean Install</a>
   </blockquote>
-<br>
+
   Once that is done, just extract the contents of this mod to your BGII folder (if you’re installing on a Tutu/BGT game, point to the Tutu/BGT folder instead), make sure you haven't got any Infinity Engine applications such as Shadow Keeper or Infinity Explorer open, and run the Setup-Item_Pack.exe. You'll be asked what do with each component (all of them are optional).
 <p></p>
 
@@ -63,7 +45,7 @@
 <h2 id="Components">II. Components</h2>
 
 <a name="Main Component" id="Main Component"></a>
-<h3>1. Item Pack v2.0</h3>
+<h3>1. Item Pack v2.1</h3>
 
   This is the mod's main component. It will add <b>45</b> brand new items to the game, with some of them taken from the Icewind Dale series &amp; Planescape: Torment, although modified in several cases. The items themselves are 
   dispersed throughout the game: some of them can be bought in stores, others will be in possession of enemies or other NPCs. In two particular instances, two of the new items will replace vanilla ones as quest 
@@ -126,8 +108,6 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
   <i>Everard’s Sling</i>, <i>Jerrod’s Mace</i>, <i>Mauler’s Arm</i>, <i>The Sleeper</i>, <i>Malla’s Soul Stone</i>, and <i>Wong Fei’s Ioun Stone</i>. Previously, all of them shared BAMs with other existing items. They should all stand out now. 
 </p>
   <p>  A new Werewolf paperdoll for the Shapeshifter class is included as well. </p>
-
- <center> <p>   <img src="./Item_Pack_ReadMe_files/old.jpg" alt="Old" width="188" height="207">  <img src="./Item_Pack_ReadMe_files/new.jpg" alt="New" width="188" height="207"> </p></center>
 
 
   <a name="Familiar Faces" id="Familiar Faces"></a>
