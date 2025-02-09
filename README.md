@@ -281,7 +281,7 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
   - Fixed an issue with <i>Club of Detonation</i>'s and <i>Harbinger</i>'s party-friendly Fireball, which summoned the Cowled Wizards if the magic license wasn't paid.<br>
   - Fixed an issue with <i>Holy Chaos! Decks</i>'s charges being incorrectly set.<br>
   - Updated WeiDU version to v249.<br>
-  - Changed ReadMe format.<p></p>
+  - Changed ReadMe format.
 
   <h3>Version 1.8:</h3>
     - Added new BAMs for <i>Edwin's Amulet</i>, <i>Malla's Soul Stone</i>, <i>Mauler's Arm</i>, <i>The Sleeper</i>, <i>Jerrod's Mace</i>, <i>Everard's Morning Star</i>, <i>Wong Fei's Ioun Stone</i>, and a slightly recoloured <i>Scarlet Ninja-To</i> to the <b>More Distinguishable Items</b> component.<br>
@@ -295,7 +295,7 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
     - Removed 'Beta' tag from <b>+X% Elemental Damage</b> component.<br>
     - Tweaked the <i>Serpent Ring</i> so dual kited Fighters/Thieves can use it too.<br>
     - Updated Russian translation.<br>
-    - Updated the tooltip macro.<p></p>
+    - Updated the tooltip macro.
     
   <h3>Version 1.7:</h3>
     - Added a new component: <b>'Item Pack for Tutu/BGT'</b>.<br>
@@ -306,26 +306,29 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
     - Added one item to the <b>More Work for Cromwell</b> component: <i>Dak'kon's Katana +4</i>.<br>
     - Added four new items to <b>Tweaked Items</b> component: <i>the Rod of Smiting</i>, the <i>Club of Detonation</i>, the <i>Harbinger Sword</i>, and the <i>Girdle of Fortitude</i>.<br>
     - Included a new Werewolf paperdoll for the Shapeshifter class in the <b>More Distinguishable Items</b> component.<br>
-    - Updated Russian translation.<p></p>
+    - Updated Russian translation.
 
-    <h3>Version 1.6:</h3>
+  <h3>Version 1.6:</h3>
     - Added a new item to the main component: the Spyglass.<br>
-    - Added Russian translation, courtesy of Silent from Arcanecoast.ru.<p></p>
-    <h3>Version 1.5:</h3>
-    - Added a new component: <b>'Pocket Store'</b>.<br>
+    - Added Russian translation, courtesy of Silent from Arcanecoast.ru.
+    
+  <h3>Version 1.5:</h3>
+  - Added a new component: <b>'Pocket Store'</b>.<br>
     - Added a new item to the main component: the <i>Wand of Protection</i>.<br>
     - Added a new item to the <b>Tweaked Items</b> component: the <i>Mercykiller Ring</i>.<br>
     - Added immunity to morale break to the <i>Greenstone Amulet</i> of the <b>Tweaked Items</b> component.<br>
     - Added new icons for the <i>Sensate Amulet</i>, <i>Vhailor's Helm</i>, <i>Mercykiller Ring</i>, and a recoloured <i>Skull of the Lich</i> to the <b>More Distinguishable Items</b> component.<br>
     - Did a new description BAM for <i>House of Despana Insignia</i>.<br>
-    - Fixed a mistyped 'OR' condition for <i>Mantooth</i>'s upgrade.<p></p>
-    <h3>Version 1.4:</h3>
+    - Fixed a mistyped 'OR' condition for <i>Mantooth</i>'s upgrade.
+    
+  <h3>Version 1.4:</h3>
     - Added a new item to the main component: <i>Jester's Bag of Holding</i>.<br>
     - Added two new items to the <b>Tweaked Items</b> component: the <i>Ring of Protection - Warder's Signet</i>, and the <i>Staff of Arundel</i>.<br>
     - Did some code optimizations.<br>
     - Fixed an issue with the <i>Dread Bond</i> bracers, which were wrongly equippable by Kensais.<br>
     - Tweaked slightly the <i>Badge of the Svirfneblin</i> and the <i>Chauntea's Vest</i> armor.<p></p>
-    <h3>Version 1.3:</h3>
+    
+  <h3>Version 1.3:</h3>
     - Added six new items to the main component: <i>Keryvian</i> (bastard sword), <i>Blur Deck</i>, <i>Robe of the Watcher</i>, <i>Girdle of Labelas</i>, and <i>Scarab of Protection</i>.<br>
     - Added two items to the <b>More Work for Cromwell</b> component: <i>Mauler's Arm +4</i> &amp; <i>Reflection Shield +3</i>.<br>
     - Fixed an issue with the <i>Shield Amulet</i>, which was providing protection from Tutu's Magic Missile instead of regular BG2's.<br>
@@ -333,7 +336,8 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
     - Fixed <i>Mantooth</i>'s bonus against wizards, which weren't working because of the effects not being copied to the Override folder.<br>
     - Fixed more compiling issues.<br>
     - Removed some mistyped 'OR()'s conditions.<p></p>
-  <p>    </p><h3>Version 1.2:</h3>
+    
+  <h3>Version 1.2:</h3>
     - Added a new component: <b>'More Work for Cromwell'</b>.<br>
     - Added an extra chunk of illithium and a <i>Potion Case</i> to the <b>Extra Items</b> component.<br>
     - Added a new icon for <i>Dak'kon's Katana</i> to the <b>More Distinguishable</b> Items component.<br>
@@ -350,27 +354,12 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
     - Fixed an issue with the alternate BAMs not being copied to the Override folder if the main component was skipped.<br>
     - Fixed an issue with the <i>Serpent Ring</i> not displaying the Magic Resistance icon while equipped.<br>
     - Renamed Component IV. Added the <i>Ring of Free Action</i> to it.<br>
-    <p></p>
-    <h3>Version 1: Initial release</h3> 
+    
+  <h3>Version 1: Initial release</h3>
 
 <br>
 <h2 id="Legal Stuff">V. Legal Stuff</h2>
 <p>Baldur's Gate I &amp; II, Planescape:Torment, and all of their trademarks are property of Bioware, Black Isle, Interplay, and Wizards of the Coast. I am in no way related to them and yadda yadda, you know how this goes. This is purely meant to
   entertain us players and NOT to profit in any way whatsoever.</p>
-
-
-      </section>
-      <footer>
-
-        
-        <p id="small">Latest version of this mod can be found in:<br> <a href="https://github.com/Dau1makan/Item-Pack">Github</a> | <a href="https://daulmakans-mods.netlify.app/item_pack.html">Netlify</a>
-        </p>
-
-      </footer>
-    </div>
-
-  
-<!-- The template for this ReadMe was made by Lars Vilhuber, Miklos Kóren, Joan Llull, Marie Connolly, Peter Morrow, and taken from
-  url=(0062)https://social-science-data-editors.github.io/template_README/ -->
 
 </body></html>
