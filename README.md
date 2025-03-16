@@ -45,7 +45,7 @@
 <h2 id="Components">II. Components</h2>
 
 <a name="Main Component" id="Main Component"></a>
-<h3>1. Item Pack v2.1</h3>
+<h3>1. Item Pack</h3>
 
   This is the mod's main component. It will add <b>45</b> brand new items to the game, with some of them taken from the Icewind Dale series &amp; Planescape: Torment, although modified in several cases. The items themselves are 
   dispersed throughout the game: some of them can be bought in stores, others will be in possession of enemies or other NPCs. In two particular instances, two of the new items will replace vanilla ones as quest 
