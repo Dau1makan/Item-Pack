@@ -275,8 +275,23 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 		<th><center><b>Helm of Opposite Alignment</b></center><br></td>
 		<td><center>Alignment becomes opposite<br>Only gettable in BG1 from the Demon Knight in the ground floor of Durlag's Tower<br>Unavailable in BG2</center><br></td>
 		<td><center>Alignment becomes opposite<br>Available from the Demon Knight after the final battle in Durlag's Tower<br>Added to Stalman in the Guarded Compound in BG2</center><br></td>
+        <tr id="reqs">
+		<th><center><b>T'rachie's Plate</b></center><br></td>
+		<td><center>AC -2 (Enchanted +5)<br>-1 Movement Rate<br>Disables Spellcasting<br>Disables Thieving & Stealth<br>-2 CON<br>-5 CHA<br>Available from Ribald in Chapter 6<</center><br></td>
+		<td><center>AC -2 (Enchanted +5)<br>Disables Spellcasting<br>Disables Thieving & Stealth<br>-5 CHA<br>Available from Ribald in Chapter 2<br>Price reduced by 50%</center><br></td>
+	</tr>
+	<tr id="reqs">
+		<th><center><b>The Claw of Kazgaroth</b></center><br></td>
+		<td><center>Unavailable in BG2</center><br></td>
+		<td><center>Added to Jayes (Promenade) in BG2</center><br></td>
+	</tr>
+	<tr id="reqs">
+		<th><center><b>The Vampire's Revenge</b></center><br></td>
+		<td><center>-1 INT<br>Inflicts damage upon the wielder and heals the target<br>Berserk effect on the wielder upon every succesful hit<br>Unavailable in BG2</center><br></td>
+		<td><center>-2 CON<br>Every succesful hit heals the wielder by 1 hit point<br>Added to Bodhi's Lair in BG2</center><br></td>
 	</tr>
 </tbody></table></center>
+    In all cases the item descriptions are updated to reflect the changes.<br>
 
 
 <p></p><h2 id="Credits">III. Credits</h2><p></p>
