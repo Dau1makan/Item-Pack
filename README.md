@@ -318,8 +318,7 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 <br>
 <h2 id="Version History">IV. Version History</h2>
 
-<h3>Version 2.1:</h3>
-Version 2.2:
+<h3>Version 2.2:</h3>
 - Added a new component: 'Cursed Items'.<br>
 - Fixed an issue with Cespenar's dialogue when upgrading the Silver Sword.<br>
 - Fixed an issue with the file for EE item descriptions misteriously vanishing from its folder since last version.<p></p>
