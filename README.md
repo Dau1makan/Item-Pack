@@ -233,7 +233,7 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 
 <a name="Cursed Items" id="Cursed Items"></a>
 <h3>12. Cursed Items</h3>
-<p>IE veterans will know that cursed items suck, and that at best only careless first timers wil get to "use" them (and even then only once) as was originally intended. This component aims to remedy that, by adding benefits to the items so it's not all drawbacks, hopefully making them appealing enough to at least consider using them. You can check the ReadMe included with the mod for the full descriptions</p>
+<p>IE veterans will know that cursed items suck, and that at best only careless first timers wil get to "use" them (and even then only once) as was originally intended. This component aims to remedy that, by adding benefits to the items so it's not all drawbacks, hopefully making them appealing enough to at least consider using them.</p>
 	
 <center><table id="upgrades" cellspacing="0" cellpadding="0">
 	<tbody><tr class="names1">
