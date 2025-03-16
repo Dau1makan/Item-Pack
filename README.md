@@ -232,6 +232,11 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
   </ul>
     <br>
 
+<a name="Cursed Items" id="Cursed Items"></a>
+<h3>12. Cursed Items</h3>
+<p>IE veterans will know that cursed items suck, and that at best only careless first timers wil get to "use" them (and even then only once) as was originally intended. This component aims to remedy that, by adding benefits to the items so it's not all drawbacks, hopefully making them appealing enough to at least consider using them.</p>
+
+
 <p></p><h2 id="Credits">III. Credits</h2><p></p>
 <p>I'd like to thank:
 
@@ -255,6 +260,13 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 
 <br>
 <h2 id="Version History">IV. Version History</h2>
+
+<h3>Version 2.1:</h3>
+Version 2.2:
+- Added a new component: 'Cursed Items'.<br>
+- Fixed an issue with Cespenar's dialogue when upgrading the Silver Sword.<br>
+- Fixed an issue with the file for EE item descriptions misteriously vanishing from its folder since last version.<p></p>
+
 <h3>Version 2.1:</h3>
 - Added <i>Storm Star +5</i> to the <b>Tweaked Items</b> component.<br>
 - Added two scrolls of Knock in Candlekeep to the <b>Item Pack for Tutu/BGT</b> component.<br>
