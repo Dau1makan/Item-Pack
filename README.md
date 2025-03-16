@@ -233,7 +233,7 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 
 <a name="Cursed Items" id="Cursed Items"></a>
 <h3>12. Cursed Items</h3>
-<p>IE veterans will know that cursed items suck, and that at best only careless first timers wil get to "use" them (and even then only once) as was originally intended. This component aims to remedy that, by adding benefits to the items so it's not all drawbacks, hopefully making them appealing enough to at least consider using them. 
+<p>IE veterans will know that cursed items suck, and that at best only careless first timers wil get to "use" them (and even then only once) as was originally intended. This component aims to remedy that, by adding benefits to the items so it's not all drawbacks, hopefully making them appealing enough to at least consider using them. </p>
 	
     <table id="upgrades" border="1" cellspacing="3" cellpadding="0">
       <tbody><tr class="cursed1">
@@ -296,7 +296,7 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
         <td><center><br>● -1 INT<br>● Inflicts damage upon the wielder and heals the target<br>● Berserk effect on the wielder upon every succesful hit<br>● Unavailable in BG2</center><br></td>
         <td><center>● -2 CON<br>● Every succesful hit heals the wielder by 1 hit point<br>● Added to Bodhi's Lair in BG2</center><br></td>
       </tr>
-    </tbody></table></p>
+    </tbody></table>
 
 
 <p></p><h2 id="Credits">III. Credits</h2><p></p>
