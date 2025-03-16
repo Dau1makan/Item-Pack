@@ -233,7 +233,70 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 
 <a name="Cursed Items" id="Cursed Items"></a>
 <h3>12. Cursed Items</h3>
-<p>IE veterans will know that cursed items suck, and that at best only careless first timers wil get to "use" them (and even then only once) as was originally intended. This component aims to remedy that, by adding benefits to the items so it's not all drawbacks, hopefully making them appealing enough to at least consider using them. You can check the ReadMe included with the mod for the full descriptions.</p>
+<p>IE veterans will know that cursed items suck, and that at best only careless first timers wil get to "use" them (and even then only once) as was originally intended. This component aims to remedy that, by adding benefits to the items so it's not all drawbacks, hopefully making them appealing enough to at least consider using them. 
+	
+    <table id="upgrades" border="1" cellspacing="3" cellpadding="0">
+      <tbody><tr class="cursed1">
+        <th><center><b>ITEM</b></center></th>
+        <th><center><b>VANILLA</b></center></th>
+        <th><center><b>MODIFIED</b></center></th>
+      </tr>
+      <tr id="cursed2">
+        <th><center>Armor of Missile Attraction</center><br></th>
+        <td><center>● AC 5 (Enchanted +2)<br>● AC 15 vs. missiles<br>● Inconsistent description<br></center><br></td>
+        <td><center><br>● AC 2 (Enchanted +5)<br>● AC 12 vs. missiles<br>● Disables spellcasting (vanilla, but was missing in the description)<br>● Buying price reduced by 20%<br>● Added to Lucky Aello in Tutu/BGT<br>● Added to Ribald in Chapter 2 in BG2</center><br></td>
+      </tr>
+      <tr class="cursed3">
+        <th><center>Backbiter +3</center><br></th>
+        <td><center><br>● Enchanted +3<br>● Inflicts 3 piercing damage upon the wearer on every succesful hit</center><br></td>
+        <td><center>● Enchanted +3<br>● -3 AC penalty<br>● Added to Osmadi in Tutu/BGT</center></td>
+      </tr>
+      <tr id="cursed4">
+        <th><center>Boots of Phasing</center><br></th>
+        <td><center>● +2 AC bonus<br>● Teleports to an enemy in sight every 3 seconds<br>● Unavailable</center><br></td>
+        <td><center><br>● +2 AC bonus<br>● Teleports to an enemy in sight every 6 seconds (1 round)<br>● Added to Lucky Aello in Tutu/BGT<br>● Added to Deril in BG2</center><br></td>
+      </tr>
+      <tr class="cursed5">
+        <th><center>Bracers of Binding</center></th>
+        <td><center>● -5 THAC0 penalty<br>● -5 Damage penalty<br>● 75% casting failure</b></center></td>
+        <td><center><br>● -5 THAC0 penalty<br>● -5 Damage penalty<br>● 75% casting failure<br>● +5% XP gained<br>● 75% Resistance to cold, electricity, and fire</center><br></td>
+      </tr>
+      <tr id="cursed6">
+        <th><center>Ring of Folly</center><br></th>
+        <td><center><br>● Intelligence set to 3<br>● Wisdom set to 3<br>● Feeblemind</center><br></td>
+        <td><center><br>● Intelligence set to 3<br>● Feeblemind<br>● +3 Wisdom</center><br></td>
+      </tr>
+      <tr id="cursed7">
+        <th><center>Gauntlets of Fumbling</center><br></th>
+        <td><center>● -10 THAC0 penalty<br>● -2 Dexterity</center><br></td>
+        <td><center><br>● -10 THAC0 penalty<br>● -2 Dexterity<br>● +25% Magic Resistance</center><br></td>
+      </tr>
+      <tr id="cursed8">
+        <th><center>Helm of Opposite Alignment</center><br></th>
+        <td><center><br>● Alignment becomes opposite<br>● Only gettable in BG1 from the Demon Knight in the ground floor of Durlag's Tower<br>● Unavailable in BG2</center><br></td>
+        <td><center><br>● Alignment becomes opposite<br>● Available from the Demon Knight after the final battle in Durlag's Tower<br>● Added to Stalman in the Guarded Compound in BG2</center><br></td>
+      </tr>
+      <tr id="cursed9">
+        <th><center>Ring of Clumsiness: 'The Jester's Folly'</center><br></th>
+        <td><center>● Reduces Stealth by -50%<br>● Reduces DEX by -50%<br>● 75% casting failure</center><br></td>
+        <td><center><br>● Reduces Stealth by -50%<br>● Reduces DEX by -50%<br>● 75% casting failure<br>● +10 THAC0 bonus vs. Bards<br>● +10 Damage bonus vs. Bards</center><br></td>
+      </tr>
+      <tr id="cursed10">
+        <th><center>T'rachie's Plate</center><br></th>
+        <td><center><br>● AC -2 (Enchanted +5)<br>● -1 Movement Rate<br>● Disables Spellcasting<br>● Disables Thieving & Stealth<br>● -2 CON<br>● -5 CHA<br>● Available from Ribald in Chapter 6</center><br></td>
+        <td><center><br>● AC -2 (Enchanted +5)<br>● Disables Spellcasting<br>● Disables Thieving & Stealth<br>● -5 CHA<br>● Available from Ribald in Chapter 2<br>● Price reduced by 50%</center><br></td>
+      </tr>
+      <tr id="cursed11">
+        <th><center><br>The Claw of Kazgaroth</center><br></th>
+        <td><center><br>● Unavailable in BG2</center><br></td>
+        <td><center><br>● Added to Jayes (Promenade) in BG2</center><br></td>
+      </tr>
+      <tr id="cursed12">
+        <th><center>The Vampire's Revenge</center><br></td>
+        <td><center><br>● -1 INT<br>● Inflicts damage upon the wielder and heals the target<br>● Berserk effect on the wielder upon every succesful hit<br>● Unavailable in BG2</center><br></td>
+        <td><center>● -2 CON<br>● Every succesful hit heals the wielder by 1 hit point<br>● Added to Bodhi's Lair in BG2</center><br></td>
+      </tr>
+    </tbody></table></p>
 
 
 <p></p><h2 id="Credits">III. Credits</h2><p></p>
