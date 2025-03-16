@@ -247,9 +247,9 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 		<td><center>AC 2 (Enchanted +5)<br>AC 12 vs. missiles<br>Disables spellcasting (vanilla, but was missing in the description)<br>Buying price reduced by 20%<br>Added to Lucky Aello in Tutu/BGT<br>Added to Ribald in Chapter 2 in BG2</center><br></td>
 	</tr>
 	<tr class="names">
-		<th><center><b><br>Ilbratha +3</b></center></th>
-		<th><center><b><br>Belm +4</b></center></th>
-		<th><center><b><br>Jhor the Bleeder +4</b></center></th>
+		<th><center><b><br>Backbiter +3</b></center></th>
+		<th><center>Enchanted +3<br>Inflicts 3 piercing damage upon the wearer on every succesful hit</center></th>
+		<th><center>Enchanted +3<br>-3 AC penalty<br>Added to Osmadi in Tutu/BGT</center></th>
 	</tr>
 	<tr id="reqs">
 		<td><center>Ilbratha +1<br>1 Scroll of Mirror Image<br>1 King's Tear<br>7.500 Gold</center><br></td>
