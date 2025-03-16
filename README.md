@@ -242,12 +242,12 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 		<th><center><b>MODIFIED</b></center></th>
 	</tr>
 	<tr id="reqs">
-		<td><b>Armor of Missile Attraction</b>b><br></td>
+		<td><b>Armor of Missile Attraction</b><br></td>
 		<td><center>AC 5 (Enchanted +2)<br>AC 15 vs. missiles<br>Inconsistent description</center><br></td>
 		<td><center>AC 2 (Enchanted +5)<br>AC 12 vs. missiles<br>Disables spellcasting (vanilla, but was missing in the description)<br>Buying price reduced by 20%<br>Added to Lucky Aello in Tutu/BGT<br>Added to Ribald in Chapter 2 in BG2</center><br></td>
 	</tr>
 	<tr class="names">
-		<td><center><b><br>Backbiter +3</b></center></th>
+		<td><center><b>Backbiter +3</b></center></td>
 		<td><center>Enchanted +3<br>Inflicts 3 piercing damage upon the wearer on every succesful hit</center></th>
 		<td><center>Enchanted +3<br>-3 AC penalty<br>Added to Osmadi in Tutu/BGT</center></th>
 	</tr>
