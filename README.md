@@ -321,7 +321,7 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 <h3>Version 2.2:</h3>
 - Added a new component: <b>'Cursed Items'</b>.<br>
 - Fixed an issue with Cespenar's dialogue when upgrading the Silver Sword.<br>
-- Fixed an issue with the file for EE item descriptions misteriously vanishing from its folder since last version.<p></p>
+- Fixed an issue with the file for EE item descriptions (used to avoid duplicating the usabilities lines) misteriously vanishing from its folder since last version.<p></p>
 
 <h3>Version 2.1:</h3>
 - Added <i>Storm Star +5</i> to the <b>Tweaked Items</b> component.<br>
