@@ -257,22 +257,24 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 		<td><center>+2 AC bonus<br>Teleports to an enemy in sight every 6 seconds (1 round)<br>Added to Lucky Aello in Tutu/BGT<br>Added to Deril in BG2</center><br></td>
 	</tr>
 	<tr class="names3">
-		<th><center><b><br>Adjatha the Drinker +4</b></center></th>
-		<th><center><b><br>Periapt of Proof Against Poison</b></center></th>
-		<th><center><b><br>Mauler's Arm +4</b></center></th>
+		<th><center><b>Bracers of Binding</b></center></th>
+		<td><center>-5 THAC0 penalty<br>-5 Damage penalty<br>75% casting failure</center></td>
+		<td><center>-5 THAC0 penalty<br>-5 Damage penalty<br>75% casting failure<br>+5% XP gained<br>75% Resistance to cold, electricity, and fire</center></td>
 	</tr>
 	<tr id="reqs">
-		<td><center>Adjatha the Drinker +2<br>2 Bloodstone gems<br>7.500 gold</center><br></td>
-		<td><center>Amulet of Protection +1<br>3 Jasper Gems<br>5.000 gold</center><br></td>
-		<td><center>Mauler's Arm +2<br>King's Tear<br>Potion of Hill Giant Strength<br>15.000 gold</center><br></td>
-	</tr>
-	<tr class="names4">
-		<th><center><b><br>Reflection Shield +3</b></center></th>
-		<th><center><b><br>Dak'kon's Katana +4</b></center></th>
+		<th><center><b>Ring of Folly</b></center><br></td>
+		<td><center>Intelligence set to 3<br>Wisdom set to 3<br>Feeblemind</center><br></td>
+		<td><center>Intelligence set to 3<br>Feeblemind<br>+3 Wisdom</center><br></td>
 	</tr>
 	<tr id="reqs">
-		<td><center>Reflection Shield +1<br>2 Scrolls of Protection from Normal Missiles<br>Star Sapphire<br>5.000 gold</center><br></td>
-		<td><center>Scroll of Chaos<br>20.000 gold</center><br></td>
+		<th><center><b>Gauntlets of Fumbling</b></center><br></td>
+		<td><center>-10 THAC0 penalty<br>-2 Dexterity</center><br></td>
+		<td><center>-10 THAC0 penalty<br>-2 Dexterity<br>+25% Magic Resistance</center><br></td>
+	</tr>
+	<tr id="reqs">
+		<th><center><b>Helm of Opposite Alignment</b></center><br></td>
+		<td><center>Alignment becomes opposite<br>Only gettable in BG1 from the Demon Knight in the ground floor of Durlag's Tower<br>Unavailable in BG2</center><br></td>
+		<td><center>Alignment becomes opposite<br>Available from the Demon Knight after the final battle in Durlag's Tower<br>Added to Stalman in the Guarded Compound in BG2</center><br></td>
 	</tr>
 </tbody></table></center>
 
