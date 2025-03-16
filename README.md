@@ -242,7 +242,7 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 		<th><center><b>MODIFIED</b></center></th>
 	</tr>
 	<tr id="reqs">
-		<td><center>Armor of Missile Attraction<br></center><br></td>
+		<td><center>Armor of Missile Attraction</center><br></td>
 		<td><center>AC 5 (Enchanted +2)<br>AC 15 vs. missiles<br>Inconsistent description</center><br></td>
 		<td><center>AC 2 (Enchanted +5)<br>AC 12 vs. missiles<br>Disables spellcasting (vanilla, but was missing in the description)<br>Buying price reduced by 20%<br>Added to Lucky Aello in Tutu/BGT<br>Added to Ribald in Chapter 2 in BG2</center><br></td>
 	</tr>
