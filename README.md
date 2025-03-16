@@ -230,7 +230,6 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 <li><i>Tattoo of the Unbroken Circle</i>: raised Cold Resistance bonus from +10% to +35%</li>
 <li><i>Tattoo of Trist's Savior</i>: raised save VS. Death bonus from +3 to +6</li>
   </ul>
-    <br>
 
 <a name="Cursed Items" id="Cursed Items"></a>
 <h3>12. Cursed Items</h3>
