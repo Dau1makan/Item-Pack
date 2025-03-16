@@ -291,7 +291,7 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 		<td><center>-2 CON<br>Every succesful hit heals the wielder by 1 hit point<br>Added to Bodhi's Lair in BG2</center><br></td>
 	</tr>
 </tbody></table></center>
-    In all cases the item descriptions are updated to reflect the changes.<br>
+    In all cases the item descriptions are updated to reflect the changes.<br><br>
 
 
 <p></p><h2 id="Credits">III. Credits</h2><p></p>
