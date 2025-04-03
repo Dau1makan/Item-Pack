@@ -37,8 +37,25 @@
     </ul>
   </blockquote>
   Note that <u>those aren’t necessary</u> for <b>Item Pack</b> to work. But if you want them, they should be installed before. <p></p>
+
+  In order to see all the items from the "<b>Item Pack for Tutu/BGT/BGEE/EET</b>" component, you should install it <u>BEFORE</u> the following:
+ </p><blockquote>
+  <ul>
+  <li>Travellers (EET)</li>
+ </ul>
+ </blockquote>
+<br>
+Furthermore, the following mods are incompatible with Item Pack:
+</p><blockquote>
+  <ul>
+  <li>Vault (EET)</li>
+ </ul>
+ </blockquote>
+
+ <br>
+
  
-  <p>  You'll have to start a new game in order to enjoy the full contents of this mod. 
+  <p> In any case, you'll have to start a new game in order to enjoy the full contents of this mod. 
   </p>
 
   <br>
@@ -317,6 +334,10 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 
 <br>
 <h2 id="Version History">IV. Version History</h2>
+
+<h3>Version 2.21:</h3>
+- Renamed the BG1 component to '<b>Item Pack for Tutu/BGT/BGEE/EET</b>'. Fixed some issues in it with some platform checks that weren't accounting properly for EET games, omitting a few select items from appearing in the game.<br>
+- Updated compatibility notes.<p></p>
 
 <h3>Version 2.2:</h3>
 - Added a new component: <b>'Cursed Items'</b>.<br>
