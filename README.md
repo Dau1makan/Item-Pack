@@ -26,7 +26,7 @@
    one exception, which should be obvious enough by the item's description). 
   
    </p><p>
-
+<br>
   In order to see all the items, you should install Item Pack AFTER the following:
   </p><blockquote>
     <ul>
