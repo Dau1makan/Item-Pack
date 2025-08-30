@@ -276,7 +276,7 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 	<tr class="names3">
 		<th><center><b>Bracers of Binding</b></center></th>
 		<td><center>● -5 THAC0 penalty<br>● -5 Damage penalty<br>● 75% casting failure</center></td>
-		<td><center>● -5 THAC0 penalty<br>● -5 Damage penalty<br>● 75% casting failure<br>+5% XP gained<br>● 75% Resistance to cold, electricity, and fire</center></td>
+		<td><center>● -5 THAC0 penalty<br>● -5 Damage penalty<br>● 75% casting failure<br>● +5% XP gained<br>● 75% Resistance to cold, electricity, and fire</center></td>
 	</tr>
 	<tr id="reqs">
 		<th><center><b>Ring of Folly</b></center><br></td>
@@ -294,7 +294,7 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 		<td><center>● Alignment becomes opposite<br>● Available from the Demon Knight after the final battle in Durlag's Tower<br>● Added to Stalman in the Guarded Compound in BG2</center><br></td>
         <tr id="reqs">
 		<th><center><b>T'rachie's Plate</b></center><br></td>
-		<td><center>● AC -2 (Enchanted +5)<br>● -1 Movement Rate<br>Disables Spellcasting<br>● Disables Thieving & Stealth<br>● -2 CON<br>● -5 CHA<br>● Available from Ribald in Chapter 6</center><br></td>
+		<td><center>● AC -2 (Enchanted +5)<br>● -1 Movement Rate<br>● Disables Spellcasting<br>● Disables Thieving & Stealth<br>● -2 CON<br>● -5 CHA<br>● Available from Ribald in Chapter 6</center><br></td>
 		<td><center>● AC -2 (Enchanted +5)<br>● Disables Spellcasting<br>● Disables Thieving & Stealth<br>● -5 CHA<br>● Available from Ribald in Chapter 2<br>● Price reduced by 50%</center><br></td>
 	</tr>
 	<tr id="reqs">
