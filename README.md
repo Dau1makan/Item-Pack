@@ -16,12 +16,12 @@
 
 <h2 id="Compatibility">I. Compatibility</h2>
 
-<p>This is a <a href="https://github.com/WeiDUorg/weidu/releases">WeiDU</a> mod, so it should work well along with such others. If you have other item-affecting mods, be warned that <b>Components 3. &amp; 4.</b> from 
+This is a WeiDUhttps://github.com/WeiDUorg/weidu/releases">WeiDU">">https://github.com/WeiDUorg/weidu/releases">WeiDU mod, so it should work well along with such others. If you have other item-affecting mods, be warned that Components 3. & 4. from 
   this mod overwrite items, so you'll only get to see their version or mine of the items in question, depending on your install order. <b>From version 2.0 onwards, the mod is fully compatible with both BG1&2 Enhanced Editions (Planescape:Torment component is untested on PST:EE)</b>.
 
 </p><p>
 
-  Some of the items provide spell-like abilities. These are taken from the vanilla game's spells, so if you have <a href="https://www.gibberlings3.net/mods/spells/spell_rev">Spell Revisions</a> installed or any 
+  Some of the items provide spell-like abilities. These are taken from the vanilla game's spells, so if you have Spell">https://www.gibberlings3.net/mods/spells/spell_rev">Spell Revisions installed or any 
   similar spell mod, said changes will be accounted for. In other words, <b>Item Pack</b> will use, when appropriate, any modified version of spells you have, provided it's installed <u>AFTER</u> them (there's only
    one exception, which should be obvious enough by the item's description). 
   
@@ -260,52 +260,52 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 	</tr>
 	<tr id="reqs">
 		<th><b>Armor of Missile Attraction</b><br></td>
-		<td><center>AC 5 (Enchanted +2)<br>AC 15 vs. missiles<br>Inconsistent description</center><br></td>
-		<td><center>AC 2 (Enchanted +5)<br>AC 12 vs. missiles<br>Disables spellcasting (vanilla, but was missing in the description)<br>Buying price reduced by 20%<br>Added to Lucky Aello in Tutu/BGT<br>Added to Ribald in Chapter 2 in BG2</center><br></td>
+		<td><center>● AC 5 (Enchanted +2)<br>● AC 15 vs. missiles<br>● Inconsistent description</center><br></td>
+		<td><center>● AC 2 (Enchanted +5)<br>● AC 12 vs. missiles<br>● Disables spellcasting (vanilla, but was missing in the description)<br>● Buying price reduced by 20%<br>● Added to Lucky Aello in Tutu/BGT<br>● Added to Ribald in Chapter 2 in BG2</center><br></td>
 	</tr>
 	<tr class="names">
 		<th><center><b>Backbiter +3</b></center></td>
-		<td><center>Enchanted +3<br>Inflicts 3 piercing damage upon the wearer on every succesful hit</center></th>
-		<td><center>Enchanted +3<br>-3 AC penalty<br>Added to Osmadi in Tutu/BGT</center></th>
+		<td><center>● Enchanted +3<br>● Inflicts 3 piercing damage upon the wearer on every succesful hit</center></th>
+		<td><center>● Enchanted +3<br>● -3 AC penalty<br>● Added to Osmadi in Tutu/BGT</center></th>
 	</tr>
 	<tr id="reqs">
 		<th><center><b>Boots of Phasing<b></center><br></th>
-		<td><center>+2 AC bonus<br>Teleports to an enemy in sight every 3 seconds<br>Unavailable</center><br></td>
-		<td><center>+2 AC bonus<br>Teleports to an enemy in sight every 6 seconds (1 round)<br>Added to Lucky Aello in Tutu/BGT<br>Added to Deril in BG2</center><br></td>
+		<td><center>● +2 AC bonus<br>● Teleports to an enemy in sight every 3 seconds<br>● Unavailable</center><br></td>
+		<td><center>● +2 AC bonus<br>● Teleports to an enemy in sight every 6 seconds (1 round)<br>● Added to Lucky Aello in Tutu/BGT<br>● Added to Deril in BG2</center><br></td>
 	</tr>
 	<tr class="names3">
 		<th><center><b>Bracers of Binding</b></center></th>
-		<td><center>-5 THAC0 penalty<br>-5 Damage penalty<br>75% casting failure</center></td>
-		<td><center>-5 THAC0 penalty<br>-5 Damage penalty<br>75% casting failure<br>+5% XP gained<br>75% Resistance to cold, electricity, and fire</center></td>
+		<td><center>● -5 THAC0 penalty<br>● -5 Damage penalty<br>● 75% casting failure</center></td>
+		<td><center>● -5 THAC0 penalty<br>● -5 Damage penalty<br>● 75% casting failure<br>+5% XP gained<br>● 75% Resistance to cold, electricity, and fire</center></td>
 	</tr>
 	<tr id="reqs">
 		<th><center><b>Ring of Folly</b></center><br></td>
-		<td><center>Intelligence set to 3<br>Wisdom set to 3<br>Feeblemind</center><br></td>
-		<td><center>Intelligence set to 3<br>Feeblemind<br>+3 Wisdom</center><br></td>
+		<td><center>● Intelligence set to 3<br>● Wisdom set to 3<br>● Feeblemind</center><br></td>
+		<td><center>● Intelligence set to 3<br>● Feeblemind<br>● +3 Wisdom</center><br></td>
 	</tr>
 	<tr id="reqs">
 		<th><center><b>Gauntlets of Fumbling</b></center><br></td>
-		<td><center>-10 THAC0 penalty<br>-2 Dexterity</center><br></td>
-		<td><center>-10 THAC0 penalty<br>-2 Dexterity<br>+25% Magic Resistance</center><br></td>
+		<td><center>● -10 THAC0 penalty<br>● -2 Dexterity</center><br></td>
+		<td><center>● -10 THAC0 penalty<br>● -2 Dexterity<br>● +25% Magic Resistance</center><br></td>
 	</tr>
 	<tr id="reqs">
 		<th><center><b>Helm of Opposite Alignment</b></center><br></td>
-		<td><center>Alignment becomes opposite<br>Only gettable in BG1 from the Demon Knight in the ground floor of Durlag's Tower<br>Unavailable in BG2</center><br></td>
-		<td><center>Alignment becomes opposite<br>Available from the Demon Knight after the final battle in Durlag's Tower<br>Added to Stalman in the Guarded Compound in BG2</center><br></td>
+		<td><center>● Alignment becomes opposite<br>● Only gettable in BG1 from the Demon Knight in the ground floor of Durlag's Tower<br>● Unavailable in BG2</center><br></td>
+		<td><center>● Alignment becomes opposite<br>● Available from the Demon Knight after the final battle in Durlag's Tower<br>● Added to Stalman in the Guarded Compound in BG2</center><br></td>
         <tr id="reqs">
 		<th><center><b>T'rachie's Plate</b></center><br></td>
-		<td><center>AC -2 (Enchanted +5)<br>-1 Movement Rate<br>Disables Spellcasting<br>Disables Thieving & Stealth<br>-2 CON<br>-5 CHA<br>Available from Ribald in Chapter 6</center><br></td>
-		<td><center>AC -2 (Enchanted +5)<br>Disables Spellcasting<br>Disables Thieving & Stealth<br>-5 CHA<br>Available from Ribald in Chapter 2<br>Price reduced by 50%</center><br></td>
+		<td><center>● AC -2 (Enchanted +5)<br>● -1 Movement Rate<br>Disables Spellcasting<br>● Disables Thieving & Stealth<br>● -2 CON<br>● -5 CHA<br>● Available from Ribald in Chapter 6</center><br></td>
+		<td><center>● AC -2 (Enchanted +5)<br>● Disables Spellcasting<br>● Disables Thieving & Stealth<br>● -5 CHA<br>● Available from Ribald in Chapter 2<br>● Price reduced by 50%</center><br></td>
 	</tr>
 	<tr id="reqs">
 		<th><center><b>The Claw of Kazgaroth</b></center><br></td>
-		<td><center>Unavailable in BG2</center><br></td>
-		<td><center>Added to Jayes (Promenade) in BG2</center><br></td>
+		<td><center>● Unavailable in BG2</center><br></td>
+		<td><center>● Added to Jayes (Promenade) in BG2</center><br></td>
 	</tr>
 	<tr id="reqs">
 		<th><center><b>The Vampire's Revenge</b></center><br></td>
-		<td><center>-1 INT<br>Inflicts damage upon the wielder and heals the target<br>Berserk effect on the wielder upon every succesful hit<br>Unavailable in BG2</center><br></td>
-		<td><center>-2 CON<br>Every succesful hit heals the wielder by 1 hit point<br>Added to Bodhi's Lair in BG2</center><br></td>
+		<td><center>● -1 INT<br>● Inflicts damage upon the wielder and heals the target<br>● Berserk effect on the wielder upon every succesful hit<br>● Unavailable in BG2</center><br></td>
+		<td><center>● -2 CON<br>● Every succesful hit heals the wielder by 1 hit point<br>● Added to Bodhi's Lair in BG2</center><br></td>
 	</tr>
 </tbody></table></center>
     In all cases the item descriptions are updated to reflect the changes.<br><br>
