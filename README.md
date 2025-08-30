@@ -294,7 +294,7 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 		<td><center>Alignment becomes opposite<br>Available from the Demon Knight after the final battle in Durlag's Tower<br>Added to Stalman in the Guarded Compound in BG2</center><br></td>
         <tr id="reqs">
 		<th><center><b>T'rachie's Plate</b></center><br></td>
-		<td><center>AC -2 (Enchanted +5)<br>-1 Movement Rate<br>Disables Spellcasting<br>Disables Thieving & Stealth<br>-2 CON<br>-5 CHA<br>Available from Ribald in Chapter 6<</center><br></td>
+		<td><center>AC -2 (Enchanted +5)<br>-1 Movement Rate<br>Disables Spellcasting<br>Disables Thieving & Stealth<br>-2 CON<br>-5 CHA<br>Available from Ribald in Chapter 6</center><br></td>
 		<td><center>AC -2 (Enchanted +5)<br>Disables Spellcasting<br>Disables Thieving & Stealth<br>-5 CHA<br>Available from Ribald in Chapter 2<br>Price reduced by 50%</center><br></td>
 	</tr>
 	<tr id="reqs">
@@ -326,6 +326,7 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
     <li>aVENGER & Mike1072 for letting me borrow their code and explaining the things I didn't understand.</li>
     <li>Sir_Kill at Blackwyrm Lair for his BAM Description tutorial.</li>
     <li>temujin for letting me know where I screwed up.</li>
+    <li>NiziNizi for helping with testing and bug hunting.</li>
     <li>ax, wut, Lollorian, Shaitan, 10th, Fennek, Noban, GeN1e/Ardanis, Piperb, and Greenhorn for helping with bug hunting.</li>
     <li>Silent and prowler for Russian translation.</li>
     <li>Shimmer_n_Fade, SixofSpades, Chevalier, Miloch, Thailog, Aranthys, Sergio, and Maurvir for their suggestions.</li>
