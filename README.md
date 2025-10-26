@@ -44,8 +44,8 @@ This is a <a href="https://github.com/WeiDUorg/weidu/releases">WeiDU</a> mod, so
   <li>Travellers (EET)</li>
  </ul>
  </blockquote>
-<br>
-Furthermore, the following mods are incompatible with Item Pack:
+<br><br>
+<b>Furthermore, the following mods are incompatible with Item Pack:</b>
 </p><blockquote>
   <ul>
   <li>Vault (EET)</li>
