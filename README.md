@@ -16,7 +16,7 @@
 
 <h2 id="Compatibility">I. Compatibility</h2>
 
-This is a WeiDUhttps://github.com/WeiDUorg/weidu/releases">WeiDU">">https://github.com/WeiDUorg/weidu/releases">WeiDU mod, so it should work well along with such others. If you have other item-affecting mods, be warned that Components 3. & 4. from 
+This is a <a href="https://github.com/WeiDUorg/weidu/releases">WeiDU</a> mod, so it should work well along with such others. If you have other item-affecting mods, be warned that Components 3. & 4. from 
   this mod overwrite items, so you'll only get to see their version or mine of the items in question, depending on your install order. <b>From version 2.0 onwards, the mod is fully compatible with both BG1&2 Enhanced Editions (Planescape:Torment component is untested on PST:EE)</b>.
 
 </p><p>
