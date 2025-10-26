@@ -21,7 +21,7 @@ This is a <a href="https://github.com/WeiDUorg/weidu/releases">WeiDU</a> mod, so
 
 </p><p>
 
-  Some of the items provide spell-like abilities. These are taken from the vanilla game's spells, so if you have Spell">https://www.gibberlings3.net/mods/spells/spell_rev">Spell Revisions installed or any 
+  Some of the items provide spell-like abilities. These are taken from the vanilla game's spells, so if you have <a href="https://www.gibberlings3.net/mods/spells/spell_rev">Spell Revisions</a> installed or any 
   similar spell mod, said changes will be accounted for. In other words, <b>Item Pack</b> will use, when appropriate, any modified version of spells you have, provided it's installed <u>AFTER</u> them (there's only
    one exception, which should be obvious enough by the item's description). 
   
