@@ -336,6 +336,10 @@ In all cases the item descriptions are updated to reflect the changes. <p></p>
 <br>
 <h2 id="Version History">IV. Version History</h2>
 
+<h3>Version 2.3:</h3>
+- Fixed several issues reported by abalabokhin.<br>
+- Updated Russian translation, courtesy of CblblP from Arcanecoast.ru.<p></p>
+
 <h3>Version 2.21:</h3>
 - Renamed the BG1 component to '<b>Item Pack for Tutu/BGT/BGEE/EET</b>'. Fixed some issues in it with some platform checks that weren't accounting properly for EET games, omitting a few select items from appearing in the game.<br>
 - Updated compatibility notes.<p></p>
